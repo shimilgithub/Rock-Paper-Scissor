@@ -1,4 +1,4 @@
-# HW5 - Rock-Paper-Scissor Game Using Teachable Machine
+# Rock-Paper-Scissor Game Using Google Teachable Machine
 
 ## Organization
 - `model` directory includes `keras_model.h5` and `labels.txt`
@@ -29,6 +29,3 @@
         - press `q` to quit
         - Once the video end, it will be saved to `output.avi` file which is uploaded in youtube.
 
-
-
-    4. **Click [here](https://www.youtube.com/watch?v=S5aeCC6bK08) to see the recorded video in youtube channel.**
