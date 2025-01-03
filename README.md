@@ -27,5 +27,5 @@
             ```
         - Webcam will be opened and we can see the live prediction that includes the  class label.
         - press `q` to quit
-        - Once the video end, it will be saved to `output.avi` file which is uploaded in youtube.
+        - Once the video end, it will be saved to `output.avi` file.
 
